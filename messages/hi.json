@@ -1,5 +1,13 @@
 {
     "index": {
       "title": "हैलो वर्ल्ड"
+    },
+    "auth": {
+      "register": {
+        "title": "Register"
+      },
+      "login": {
+        "title": "लॉग इन करें"
+      }
     }
   }

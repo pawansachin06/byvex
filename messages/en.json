@@ -1,5 +1,13 @@
 {
     "index": {
       "title": "Hello world!"
+    },
+    "auth": {
+      "register": {
+        "title": "Register"
+      },
+      "login": {
+        "title": "Login"
+      }
     }
   }
