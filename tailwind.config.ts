@@ -8,7 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      padding: {
+        '1/2': '50%',
+        '16/9': '56.25%',
+      },
     },
+  },
+  corePlugins: {
+    preflight: false,
   },
   plugins: [
     require('@tailwindcss/forms')
