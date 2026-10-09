@@ -13,7 +13,7 @@ export default async function Home() {
   console.log('User username', session?.user.username);
   return (
     <div>
-      {t('title')}
+      {t('title')} & Testing deploy to vercel.
       <LocaleSwitcher />
       {session ?
         <div>
